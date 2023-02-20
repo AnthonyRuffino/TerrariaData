@@ -1,0 +1,29 @@
+{
+  "World": {
+    "Lousy_Fountain_of_Luminite.wld": true,
+    "omaga.wld": false,
+    "Burrow_of_Laughter.wld": false,
+    "Red's_Cove_of_Heart.wld": false,
+    "Successful_Grove.wld": false,
+    "The_Suburb_of_Cyborgs.wld": false,
+    "The_Blushful_Core_of_Floof.wld": false,
+    "The_Stream_of_the_Mummy.wld": false,
+    "The_Clumsy_Door_of_the_Drax.wld": false,
+    "The_Bank_of_Mana.wld": false,
+    "The_Scary_Canvas.wld": false,
+    "The_Salty_Image.wld": false,
+    "Alien_Slumber.wld": true,
+    "Foreign_Alcove_of_Twilight.wld": false,
+    "Stalwart_Butte.wld": false,
+    "Nest_of_the_Stooge.wld": false,
+    "ffvrhofovp[fnw_urv_vhq]r=q4.wld": false,
+    "World_of_Caves.wld": true,
+    "The_Petrified_Planet.wld": false,
+    "Orange_Forge_of_Criminals.wld": false,
+    "The_Kingdom_of_Brilliance.wld": false
+  },
+  "Player": {
+    "ogian.plr": true,
+    "LOL.plr": false
+  }
+}
